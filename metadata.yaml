@@ -1,0 +1,42 @@
+_repo: AnieIllustrated-version_45207
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bayard, Émile Antoine
+    alias: Bayard, Emile Antoine
+    birthdate: 1837
+    deathdate: 1891
+    gutenberg_agent_id: '7533'
+    url: http://www.gutenberg.org/2009/agents/7533
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Bayard
+covers:
+- cover_type: archival
+  image_path: 45207-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Littérature
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45207'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'Anie
+
+  Illustrated version'
+url: http://www.gutenberg.org/ebooks/45207
